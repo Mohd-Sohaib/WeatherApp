@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="min_temp">0℃</string>
+    <string name="max_temp">0℃</string>
+    <string name="location">Delhi </string>
+    <string name="main_temp">00</string>
+    <string name="weather_condition">Cloudy</string>
+    <string name="symbol">o</string>
+    <string name="days">Sunday</string>
+    <string name="country">IN</string>
+    <string name="start">Get Started</string>
+    <string name="weather">Weather\nForecast</string>
+    <string name="forecast">Forecast</string>
+</resources>

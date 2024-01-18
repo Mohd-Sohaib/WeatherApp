@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Sohaib" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#F4511E</item>
+        <item name="colorPrimaryDark">#5B71FB</item>
+        <item name="colorAccent">#5B71FB</item>
+    </style>
+    
+<!--    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">#8FECF6</item>-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/weather</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.WeatherApp</item>-->
+<!--    </style>-->
+
+    <style name="Theme.WeatherApp" parent="Base.Theme.WeatherApp" />
+</resources>
